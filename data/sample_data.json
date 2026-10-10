@@ -1,0 +1,11 @@
+{
+  "warehouse": {"name": "Main Warehouse", "latitude": 13.0827, "longitude": 80.2707},
+  "deliveries": [
+    {"name": "T Nagar Store", "latitude": 13.0418, "longitude": 80.2341, "priority": "HIGH"},
+    {"name": "Anna Nagar Shop", "latitude": 13.0850, "longitude": 80.2101, "priority": "LOW"},
+    {"name": "Adyar Office", "latitude": 13.0012, "longitude": 80.2565, "priority": "MEDIUM"},
+    {"name": "Velachery Home", "latitude": 12.9815, "longitude": 80.2180, "priority": "LOW"},
+    {"name": "Tambaram Clinic", "latitude": 12.9249, "longitude": 80.1000, "priority": "HIGH"}
+  ],
+  "use_priority": true
+}

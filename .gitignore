@@ -1,0 +1,15 @@
+# Secrets: never upload these
+.env
+
+# Python
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Node / React
+node_modules/
+dist/
+
+# Mac
+.DS_Store

@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f4f4;
+  color: #222;
+}
+
+.page {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  background: white;
+}
+
+input,
+select {
+  margin: 4px 0;
+  padding: 4px;
+}
+
+label {
+  display: inline-block;
+  min-width: 80px;
+}
+
+.delivery-box {
+  border: 1px solid #ccc;
+  padding: 8px;
+  margin: 8px 0;
+}
+
+.error-box {
+  border: 1px solid #c00;
+  background: #fee;
+  padding: 8px;
+  margin-top: 12px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 6px;
+  text-align: left;
+}
+
+button {
+  padding: 8px 20px;
+  cursor: pointer;
+}
